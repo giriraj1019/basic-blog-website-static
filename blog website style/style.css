@@ -1,0 +1,78 @@
+*{
+  font-family: arial;
+}
+
+#head{
+  background-color: rgb(238, 235, 235);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#links{
+  background-color: skyblue;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+#links a{
+  color: white;
+  margin: 0 20px;
+  text-decoration: none;
+}
+
+#firstBlog{
+  padding: 15px 10px;
+  margin-bottom: 0;
+  border: 1px solid grey;
+  border-radius: 3px;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.myDog{
+  width: 400px;
+  border-radius: 12px;
+}
+.gap{
+  background-color: rgb(238, 235, 235);
+  height: 20px;
+ 
+}
+
+.secondBlog{
+  border: 1px solid grey;
+  border-radius: 3px;
+  padding: 15px 10px
+  
+}
+.brr{
+  height: 30px;
+  background-color: rgb(238, 235, 235);
+  padding: 20px 0px 10px 0px;
+  
+}
+
+.myFooter{
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 20px ;
+}
+
+.footerPara{
+  font-size: 10px;
+}
+
+.dashed{
+  
+  border: 0.9px dashed #000; 
+}
